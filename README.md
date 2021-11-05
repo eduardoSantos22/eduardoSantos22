@@ -1,5 +1,7 @@
 My name is **Eduardo Santos** and I'm a student learning code in Portugal. These are some of the technologies I use in my classes:
 
+The website about me: https://eduardosantos22.github.io
+
 #### Programming Languages
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
