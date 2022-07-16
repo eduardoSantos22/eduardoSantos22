@@ -10,6 +10,7 @@ The website about me: https://eduardosantos22.github.io
 
 #### Frameworks, Platforms and Libraries
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-563D7C?style=for-the-badge&logo=Laravel&logoColor=white"/>
 
 #### Robotics
 <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white"/>
