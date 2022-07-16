@@ -9,8 +9,7 @@ The website about me: https://eduardosantos22.github.io
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 #### Frameworks, Platforms and Libraries
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="Laravel" src="https://img.shields.io/badge/Laravel-563D7C?style=for-the-badge&logo=Laravel&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=Laravel&logoColor=white"/>
 
 #### Robotics
 <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white"/>
