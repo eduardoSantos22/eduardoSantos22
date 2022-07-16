@@ -3,7 +3,7 @@ My name is **Eduardo Santos** and I'm a student learning code in Portugal. These
 The website about me: https://eduardosantos22.github.io
 
 #### Programming Languages
-<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/PHP-darkviolet?style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/PHP-7377ad?style=for-the-badge&logo=php&logoColor=white"/>
 
 #### Web
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
